@@ -26,7 +26,7 @@ export default function Home() {
         <div className="container mx-auto my-7 py-4 px-4 md:container md:mx-auto bg-blue-400 h-72 w-full justify-center rounded-md flex  ">
           <div className="">
             <p className="text-3xl p-2 font-semibold">
-              The universal destinations platform
+               Begin Today for a better tomorrow
             </p>
             <p className="p-2">
               Supporting students to <b>find the best next step</b> for them
