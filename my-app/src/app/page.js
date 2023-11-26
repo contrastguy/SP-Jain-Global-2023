@@ -366,7 +366,7 @@ export default function Home() {
               Australasian Unis
             </h2>
             <button
-              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-24  px-3 py-1  font-bold text-white  ring-1 ring-white `}
+              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-32  px-3 py-1  font-bold text-white  ring-1 ring-white `}
             >
               Start{" "}
               <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
@@ -385,7 +385,7 @@ export default function Home() {
               MidEast & Africa Unis
             </h2>
             <button
-              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-16  px-3 py-1  font-bold text-white  ring-1 ring-white `}
+              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-24  px-3 py-1  font-bold text-white  ring-1 ring-white `}
             >
               Start{" "}
               <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
