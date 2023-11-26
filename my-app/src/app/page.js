@@ -58,7 +58,7 @@ export default function Home() {
               Interest Profile
             </h2>
             <button
-              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-16  px-3 py-1  font-bold text-white  ring-1 ring-white `}
+              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-24  px-3 py-1  font-bold text-white  ring-1 ring-white `}
             >
               Start{" "}
               <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
@@ -105,7 +105,7 @@ export default function Home() {
               Careers Library
             </h2>
             <button
-              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-16  px-3 py-1  font-bold text-white  ring-1 ring-white `}
+              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-24  px-3 py-1  font-bold text-white  ring-1 ring-white `}
             >
               Start{" "}
               <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
@@ -124,7 +124,7 @@ export default function Home() {
               Subjects Library
             </h2>
             <button
-              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-16  px-3 py-1  font-bold text-white  ring-1 ring-white `}
+              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-24  px-3 py-1  font-bold text-white  ring-1 ring-white `}
             >
               Start{" "}
               <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
@@ -235,7 +235,7 @@ export default function Home() {
               UK Universities
             </h2>
             <button
-              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-16  px-3 py-1  font-bold text-white  ring-1 ring-white `}
+              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-24  px-3 py-1  font-bold text-white  ring-1 ring-white `}
             >
               Start{" "}
               <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
@@ -254,7 +254,7 @@ export default function Home() {
               US Universities
             </h2>
             <button
-              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-16  px-3 py-1  font-bold text-white  ring-1 ring-white `}
+              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-24  px-3 py-1  font-bold text-white  ring-1 ring-white `}
             >
               Start{" "}
               <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
@@ -290,7 +290,7 @@ export default function Home() {
           >
             <h2 className={`mb-3 text-xl font-bold text-white`}>Oxbridge</h2>
             <button
-              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-16  px-3 py-1  font-bold text-white  ring-1 ring-white `}
+              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-24  px-3 py-1  font-bold text-white  ring-1 ring-white `}
             >
               Start{" "}
               <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
@@ -347,7 +347,7 @@ export default function Home() {
               Asian Universities
             </h2>
             <button
-              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-16  px-3 py-1  font-bold text-white  ring-1 ring-white `}
+              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-24  px-3 py-1  font-bold text-white  ring-1 ring-white `}
             >
               Start{" "}
               <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
@@ -366,7 +366,7 @@ export default function Home() {
               Australasian Unis
             </h2>
             <button
-              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-16  px-3 py-1  font-bold text-white  ring-1 ring-white `}
+              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-24  px-3 py-1  font-bold text-white  ring-1 ring-white `}
             >
               Start{" "}
               <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
@@ -404,7 +404,7 @@ export default function Home() {
               Irish Universities
             </h2>
             <button
-              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-16  px-3 py-1  font-bold text-white  ring-1 ring-white `}
+              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-24  px-3 py-1  font-bold text-white  ring-1 ring-white `}
             >
               Start{" "}
               <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
@@ -440,7 +440,7 @@ export default function Home() {
           >
             <h2 className={`mb-3 text-xl font-bold text-white`}>Events</h2>
             <button
-              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-16  px-3 py-1  font-bold text-white  ring-1 ring-white `}
+              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-24  px-3 py-1  font-bold text-white  ring-1 ring-white `}
             >
               Go to tool{" "}
               <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
@@ -506,7 +506,7 @@ export default function Home() {
           >
             <h2 className={`mb-3 text-xl font-bold text-white`}>CV / Resumé</h2>
             <button
-              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-16  px-3 py-1  font-bold text-white  ring-1 ring-white `}
+              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-24  px-3 py-1  font-bold text-white  ring-1 ring-white `}
             >
               Start{" "}
               <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
@@ -525,7 +525,7 @@ export default function Home() {
               Writing tool
             </h2>
             <button
-              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-16  px-3 py-1  font-bold text-white  ring-1 ring-white `}
+              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-24  px-3 py-1  font-bold text-white  ring-1 ring-white `}
             >
               Start{" "}
               <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
