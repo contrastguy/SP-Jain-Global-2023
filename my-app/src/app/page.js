@@ -26,7 +26,7 @@ export default function Home() {
         <div className="container mx-auto my-7 py-4 px-4 md:container md:mx-auto bg-blue-400 h-72 w-full justify-center rounded-md flex  ">
           <div className="">
             <p className="text-3xl p-2 font-semibold">
-               Begin Today for a better tomorrow
+              Begin Today for a better tomorrow
             </p>
             <p className="p-2">
               Supporting students to <b>find the best next step</b> for them
@@ -78,6 +78,25 @@ export default function Home() {
             </h2>
             <button
               className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-16  px-3 py-1  font-bold text-white  ring-1 ring-white `}
+            >
+              Start{" "}
+              <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                -&gt;
+              </span>
+            </button>
+          </a>
+
+          <a
+            href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
+            className="group rounded-lg border border-transparent mx-2 px-5 py-4 transition-colors hover:border-gray-300 bg-blue-400 hover:dark:border-neutral-700 hover:dark:bg-neutral-800 hover:dark:bg-opacity-30"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className={`mb-3 text-xl font-bold text-white`}>
+              Skill Profile
+            </h2>
+            <button
+              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-24  px-3 py-1  font-bold text-white  ring-1 ring-white `}
             >
               Start{" "}
               <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
@@ -592,16 +611,11 @@ export default function Home() {
           </a>
         </div>
 
+        {/*---------------------------------------------------- Making Applications --------------------------------------------------------------------------------------------------  */}
+        {/* ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */}
 
-{/*---------------------------------------------------- Making Applications --------------------------------------------------------------------------------------------------  */}
-{/* ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */}
-
-
-
-<div className="mx-auto  mt-4 w-full">
-          <p className="text-center font-bold text-2xl">
-            Making Applications
-          </p>
+        <div className="mx-auto  mt-4 w-full">
+          <p className="text-center font-bold text-2xl">Making Applications</p>
         </div>
 
         <div className=" grid text-center mt-12 lg:max-w-5xl lg:w-full lg:mb-4 lg:grid-cols-3 lg:text-left">
@@ -661,11 +675,7 @@ export default function Home() {
               </span>
             </button>
           </a>
-
-          
         </div>
-
-
       </main>
     </div>
   );
