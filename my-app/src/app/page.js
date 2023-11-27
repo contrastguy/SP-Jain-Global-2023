@@ -643,6 +643,25 @@ export default function Home() {
             </button>
           </a>
 
+          <a
+            href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
+            className="group rounded-lg border border-transparent mx-2 px-5 py-4 transition-colors hover:border-gray-300 bg-blue-400 hover:dark:border-neutral-700 hover:dark:bg-neutral-800 hover:dark:bg-opacity-30"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className={`mb-3 text-xl font-bold text-white`}>
+              Explore Scholarships
+            </h2>
+            <button
+              className={`m-0 max-w-[30ch] text-md inline-flex items-center mt-16  px-3 py-1  font-bold text-white  ring-1 ring-white `}
+            >
+              Start{" "}
+              <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                -&gt;
+              </span>
+            </button>
+          </a>
+
           
         </div>
 
